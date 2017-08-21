@@ -1,0 +1,17 @@
+{
+  "name": "minimiddle",
+  "version": "1.0.0",
+  "description": "A mini javascript middleware pattern implementation forked from [darrenscerri/Middleware.js]",
+  "keywords": [ "middleware" ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/csy1983/minimiddle.git"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha -b *.test.js"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.0"
+  }
+}
